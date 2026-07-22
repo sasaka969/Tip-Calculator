@@ -8,7 +8,7 @@ A simple python program that calculate hoe much each person should pay adding ti
 - dispay the result with 2 decimal places (u can change it by changing the ${amount:.2f} from 2 to 3 4 etc)
 .
 ## How to run
-- open the folder where u install
+- open the folder where u install file
 - on the top u will the path of the file type cmd there 
 - then command prompt will open then type this 
 - example
