@@ -1,4 +1,4 @@
-## welcome to tip genarater 
+## Welcome to tip genarater 
  
 A simple python program that calculate hoe much each person should pay adding tip 
  
@@ -7,7 +7,7 @@ A simple python program that calculate hoe much each person should pay adding ti
 >splite the bill amoung multiple people 
 >dispay the result with 2 decimal places (u can change it by changing the ${amount:.2f} from 2 to 3 4 etc)
 .
-## how to run
+## How to run
 
 G:\Tip-calculator>python tip-calculator.py
 
