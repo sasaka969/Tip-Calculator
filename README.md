@@ -1,7 +1,7 @@
 ## welcome to tip genarater 
-. 
+ 
 A simple python program that calculate hoe much each person should pay adding tip 
-. 
+ 
 ## features
 >Calculate tip percentage 
 >splite the bill amoung multiple people 
@@ -9,7 +9,7 @@ A simple python program that calculate hoe much each person should pay adding ti
 .
 ## how to run
 
-python tip_calculator.py
+G:\Tip-calculator>python tip-calculator.py
 
 ## Example
 
