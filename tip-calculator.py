@@ -4,9 +4,9 @@ print("Welcome to tip calculater🙏")
 
 # asigning the values
 
-Bill = float(input("Bill: $"))
-Tip = int(input("Tip:"))
-People = int(input("No. of people:"))
+bill = float(input("Bill: $"))
+tip = int(input("Tip:"))
+people = int(input("No. of people:"))
 
 # calculation part 
 
